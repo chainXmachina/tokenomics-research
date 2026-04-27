@@ -10,7 +10,7 @@ The focus is on understanding how decentralized systems create, distribute, and 
 
 - Tokenomics and incentive design
 - Economic system modeling
-- Onchain behavior and coordination
+- On-chain behavior and coordination
 - Mechanism design in blockchain systems
 - Governance and value distribution
 
@@ -21,7 +21,7 @@ The focus is on understanding how decentralized systems create, distribute, and 
 ### essays/
 Conceptual explorations and short research pieces connecting blockchain systems with economic and philosophical ideas.
 
-### simulations/ (optional later)
+### simulations/ 
 Agent-based and system-level simulations of token economies.
 
 ### theses/
